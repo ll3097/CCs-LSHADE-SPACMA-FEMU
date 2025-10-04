@@ -10,7 +10,7 @@
 
 # File Description
 
-Main.m – Main driver program (run CC-based customized LSHADE-SPACMA FEMU algorithm).
+CCsFEMU_main_V1.m – Main driver program (run CC-based customized LSHADE-SPACMA FEMU algorithm).
 
 response_simulation8d.m – Simulates structural acceleration responses.
 
@@ -51,3 +51,4 @@ If you use this code in your research, please cite:
 A Novel Cepstrum-Based and Evolutionary Optimization Hybrid Framework for Structural Parameter Identification
 
 Lechen Li, Zhenzhong Shen, Lei Gan, Liqun Xu, Hongwei Zhang, Wenbin Ye. Advances in Structural Engineering, 2025.
+
