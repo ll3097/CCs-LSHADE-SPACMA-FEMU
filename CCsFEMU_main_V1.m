@@ -5,7 +5,7 @@ clear all
 
 %% Load experimental data (FEMU objective)
 % Example: baseline acceleration response from LANL three-story frame dataset.
-load('exp_resp_baseline.mat')
+load('exp_resp.mat')
 exp_cc = extract_cc(exp_resp);   % Extract cepstral coefficients from experimental response
 
 %% Structural parameter configuration
