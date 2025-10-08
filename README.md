@@ -18,7 +18,7 @@ extract_cc.m – Extracts cepstral coefficients from time-domain responses.
 
 cc_update_cost.m – Cost function comparing experimental vs. simulated CCs.
 
-exp_resp_baseline.mat – Example experimental dataset.
+exp_resp.mat – Example experimental dataset.
 
 # Usage
 
@@ -51,4 +51,5 @@ If you use this code in your research, please cite:
 A Novel Cepstrum-Based and Evolutionary Optimization Hybrid Framework for Structural Parameter Identification
 
 Lechen Li, Zhenzhong Shen, Lei Gan, Liqun Xu, Hongwei Zhang, Wenbin Ye. Advances in Structural Engineering, 2025.
+
 
