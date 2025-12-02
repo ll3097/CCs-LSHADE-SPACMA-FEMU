@@ -48,8 +48,9 @@ No additional toolboxes required.
 
 If you use this code in your research, please cite:
 
-A Novel Cepstrum-Based and Evolutionary Optimization Hybrid Framework for Structural Parameter Identification
+1) Li L, Morgantini M, Betti R. Structural damage assessment through a new generalized autoencoder with features in the quefrency domain. Mechanical Systems and Signal Processing. 2023;184:109713.
+2) Li L, Shen Z, Gan L, Xu L, Zhang H, Ye W. A novel cepstrum-based and evolutionary optimization hybrid framework for structural parameter identification. Advances in Structural Engineering. 2025;0(0).
 
-Lechen Li, Zhenzhong Shen, Lei Gan, Liqun Xu, Hongwei Zhang, Wenbin Ye. Advances in Structural Engineering, 2025.
+
 
 
